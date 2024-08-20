@@ -1,0 +1,14 @@
+C:\Users\camila.melo\Anagrama\bin\Debug\net8.0\Anagrama.exe
+C:\Users\camila.melo\Anagrama\bin\Debug\net8.0\Anagrama.deps.json
+C:\Users\camila.melo\Anagrama\bin\Debug\net8.0\Anagrama.runtimeconfig.json
+C:\Users\camila.melo\Anagrama\bin\Debug\net8.0\Anagrama.dll
+C:\Users\camila.melo\Anagrama\bin\Debug\net8.0\Anagrama.pdb
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.AssemblyInfoInputs.cache
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.AssemblyInfo.cs
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.dll
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\refint\Anagrama.dll
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.pdb
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\Anagrama.genruntimeconfig.cache
+C:\Users\camila.melo\Anagrama\obj\Debug\net8.0\ref\Anagrama.dll
